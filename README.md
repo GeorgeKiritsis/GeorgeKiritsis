@@ -2,7 +2,7 @@
 Hellenic Air Force Academy '26  ·  Computer Science 
 Athens, Greece
 
-I work at the intersection of **embedded systems**, **aerospace ML**, and **real-time
+I work at the intersection of **software engineering**, **computer graphics**, **embedded systems**, **aerospace ML**, and **real-time
 analytics for pilot training**. My undergraduate research at the 360 Training Squadron
 of the Hellenic Air Force produced an end-to-end flight-data acquisition and
 debriefing system, from the custom STM32 hardware up to a 3D replay engine with
