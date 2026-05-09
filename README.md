@@ -43,7 +43,7 @@ inline anomaly detection.
 ## Contact
 
 - ✉ &nbsp;[georgekiritsis5@gmail.com]
-- 🆔 &nbsp;ORCID: [0009-0001-4686-2760](https://orcid.org/0009-0001-4686-2760) <!--- - 🎓 &nbsp;[Google Scholar](#) --->
+- 🆔 &nbsp;ORCID: [0009-0001-4686-2760](https://orcid.org/0009-0001-4686-2760) 
 - 💼 &nbsp;[LinkedIn](https://www.linkedin.com/in/giorgoskiritsis/)
-
+<!--- - 🎓 &nbsp;[Google Scholar](#) --->
 <sub>Diploma thesis: <i>""Design and Implementation of a Flight Data Recorder for the Tecnam P2002-JF Trainer Aircraft, with Companion Software for Post-Flight Analysis, Performance Evaluation, and Three-Dimensional Visualisation""</i> &mdash; advisor Assoc. Prof. P. Karampelas, co-supervisor Sqd. Ldr. (PhD) F. Vakrakos. Hellenic Air Force Academy, Department of Aeronautical Sciences, Division of Computer Science.</sub>
