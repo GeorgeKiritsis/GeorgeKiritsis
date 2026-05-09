@@ -1,6 +1,6 @@
 # Georgios Kiritsis
 
-Hellenic Air Force Academy '26  ·  Computer Science (ΕΠ)
+Hellenic Air Force Academy '26  ·  Computer Science 
 Athens, Greece
 
 I work at the intersection of **embedded systems**, **aerospace ML**, and **real-time
@@ -24,27 +24,27 @@ inline anomaly detection.
   _Survey of AI techniques for military simulation training, with an aviation case
   study built on the Ikaros / Skyris system._
 
-- **[ikaros-firmware](#)** &mdash; Custom flight-data recorder firmware for the
+- **[Ikaros Flight Computer Firmware](#)** &mdash; Custom flight-data recorder firmware for the
   Tecnam P2002-JF trainer aircraft. STM32F405, BMI088 IMU, LIS2MDL, BMP280, NEO-6M GPS,
   microSD logging. Mahony AHRS at 400 Hz, 38-channel telemetry at 100 Hz.
 
-- **[skyris-engine](#)** &mdash; Custom C++17/OpenGL engine for 3D flight replay,
+- **[Skyris Engine](#)** &mdash; Custom C++17/OpenGL engine for 3D flight replay,
   with ECS architecture, PBR rendering, terrain LOD, OSM/SRTM geographic context,
   and inline phase-aware Isolation-Forest anomaly detection at 60 Hz.
 
-- **[phase-aware-iforest](#)** &mdash; Reference implementation of the phase-aware
+- **[Phase Aware Isolation Forest Algorithm](#)** &mdash; Reference implementation of the phase-aware
   Isolation-Forest pipeline, with reproducible experiments and pre-trained models.
 
-- **[tecnamsim-dataset](#)** &mdash; Synthetic flight benchmark for pilot-training
+- **[TecnamSim Dataset](#)** &mdash; Synthetic flight benchmark for pilot-training
   anomaly detection: 1,000+ nominal flights and 200+ anomalous flights with
   ground-truth labels, generated from a hardware-faithful Tecnam P2002-JF model with
   datasheet-derived sensor noise. _In preparation._
 
 ## Contact
 
-- ✉ &nbsp;[email]
-- 🆔 &nbsp;ORCID: [0000-0000-0000-0000](#)
-- 🎓 &nbsp;[Google Scholar](#)
-- 💼 &nbsp;[LinkedIn](#)
+- ✉ &nbsp;[georgekiritsis5@gmail.com]
+- 🆔 &nbsp;ORCID: [0009-0001-4686-2760](https://orcid.org/0009-0001-4686-2760)
+<!--- - 🎓 &nbsp;[Google Scholar](#) --->
+- 💼 &nbsp;[LinkedIn](https://www.linkedin.com/in/giorgoskiritsis/)
 
-<sub>Diploma thesis: <i>"Σχεδιασμός και κατασκευή Υπολογιστή Καταγραφής Πτήσης για το Α/Φ Tecnam P2002-JF"</i> &mdash; advisor Assoc. Prof. P. Karampelas, co-supervisor Sqd. Ldr. (PhD) F. Vakrakos. Hellenic Air Force Academy, Department of Aeronautical Sciences, Division of Computer Science.</sub>
+<sub>Diploma thesis: <i>""Design and Implementation of a Flight Data Recorder for the Tecnam P2002-JF Trainer Aircraft, with Companion Software for Post-Flight Analysis, Performance Evaluation, and Three-Dimensional Visualisation""</i> &mdash; advisor Assoc. Prof. P. Karampelas, co-supervisor Sqd. Ldr. (PhD) F. Vakrakos. Hellenic Air Force Academy, Department of Aeronautical Sciences, Division of Computer Science.</sub>
