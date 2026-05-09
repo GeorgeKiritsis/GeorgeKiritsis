@@ -21,7 +21,7 @@ inline anomaly detection.
   _Survey of AI techniques for military simulation training, with an aviation case
   study built on the Ikaros / Skyris system._ _Coming Soon_
 
-  ## Selected work
+## Selected work
 - 🛠 &nbsp;**[Ikaros Flight Computer Firmware](#)** &mdash; Custom flight-data recorder firmware for the
   Tecnam P2002-JF trainer aircraft. STM32F405, BMI088 IMU, LIS2MDL, BMP280, NEO-6M GPS,
   microSD logging. Mahony AHRS at 400 Hz, 38-channel telemetry at 100 Hz.  _Coming Soon_
