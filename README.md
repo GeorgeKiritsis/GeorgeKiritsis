@@ -1,12 +1,12 @@
 # Georgios Kiritsis
 
-Hellenic Air Force Academy '26  ·  Computer Science 
+Hellenic Air Force Academy '26  ·  Computer Science (ΕΠ)
 Athens, Greece
 
-I work at the intersection of **embedded systems**, **computer graphics**, **aerospace ML**, and **real-time
+I work at the intersection of **embedded systems**, **aerospace ML**, and **real-time
 analytics for pilot training**. My undergraduate research at the 360 Training Squadron
 of the Hellenic Air Force produced an end-to-end flight-data acquisition and
-debriefing system, from the custom STM32 hardware up to a 3D visualization engine with
+debriefing system, from the custom STM32 hardware up to a 3D replay engine with
 inline anomaly detection.
 
 ## Research interests
@@ -14,6 +14,7 @@ inline anomaly detection.
 - Phase-conditional unsupervised anomaly detection on non-stationary time series
 - Synthetic-to-real transfer when training data are unavoidably simulated
 - Embedded ML on cockpit-class hardware (Cortex-M, sub-MB memory)
+- Data-driven post-flight analytics for pilot training and aviation safety
 - Reproducible benchmarks and tooling for aerospace ML
 
 ## Selected work
@@ -33,6 +34,11 @@ inline anomaly detection.
 
 - **[phase-aware-iforest](#)** &mdash; Reference implementation of the phase-aware
   Isolation-Forest pipeline, with reproducible experiments and pre-trained models.
+
+- **[tecnamsim-dataset](#)** &mdash; Synthetic flight benchmark for pilot-training
+  anomaly detection: 1,000+ nominal flights and 200+ anomalous flights with
+  ground-truth labels, generated from a hardware-faithful Tecnam P2002-JF model with
+  datasheet-derived sensor noise. _In preparation._
 
 ## Contact
 
