@@ -39,4 +39,4 @@ inline anomaly detection.
 - 💼 &nbsp;[LinkedIn](https://www.linkedin.com/in/giorgoskiritsis/)
 <!--- - 🎓 &nbsp;[Google Scholar](#) --->
 
-<sub>Diploma thesis: <i>"Design and Implementation of a Flight Data Recorder for the Tecnam P2002-JF Trainer Aircraft, with Companion Software for Post-Flight Analysis, Performance Evaluation, and Three-Dimensional Visualization"</i> &mdash; advisor Assoc. Prof. P. Karampelas, co-supervisor Sqd. Ldr. (PhD) F. Vakrakos. Hellenic Air Force Academy, Department of Aeronautical Sciences, Division of Computer Science.</sub>
+<sub>Diploma thesis: <i>"Design and Implementation of a Flight Data Recorder for the Tecnam P2002-JF Trainer Aircraft, with Companion Software for Post-Flight Analysis, Performance Evaluation, and Three-Dimensional Visualization"</i> &mdash; advisor Assoc. Prof. P. Karampelas, co-supervisor Sqd. Ldr.F. Vakrakos. Hellenic Air Force Academy, Department of Aeronautical Sciences, Department of Computer Science.</sub>
