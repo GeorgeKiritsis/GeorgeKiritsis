@@ -23,7 +23,7 @@ inline anomaly detection.
 - 🛠 &nbsp;**[Ikaros Flight Computer Firmware](#)** &mdash; Custom flight-data recorder firmware for the
   Tecnam P2002-JF trainer aircraft. STM32F405, BMI088 IMU, LIS2MDL, BMP280, NEO-6M GPS,
   microSD logging. Mahony AHRS at 400 Hz, 38-channel telemetry at 100 Hz.  _Coming Soon_
-- 🎮 &nbsp;**[Skyris Engine](#)** &mdash; Custom C++17/OpenGL engine for 3D flight replay,
+- 🎮 &nbsp;**[Skyris Engine](#)** &mdash; Custom C++17/OpenGL engine for 3D flight replay & visualization,
   with ECS architecture, PBR rendering, terrain LOD, OSM/SRTM geographic context,
   and inline phase-aware Isolation-Forest anomaly detection at 60 Hz.  _Coming Soon_
 - 🌲 &nbsp;**[Phase Aware Isolation Forest Algorithm](#)** &mdash; Reference implementation of the phase-aware
