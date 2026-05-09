@@ -19,15 +19,15 @@ inline anomaly detection.
 - 📕 &nbsp;**The Use of Artificial Intelligence in Military Simulation Training** &mdash;
   Springer book chapter (2026, in press), with P. Karampelas.
   _Survey of AI techniques for military simulation training, with an aviation case
-  study built on the Ikaros / Skyris system._
+  study built on the Ikaros / Skyris system._ _Coming Soon_
 - 🛠 &nbsp;**[Ikaros Flight Computer Firmware](#)** &mdash; Custom flight-data recorder firmware for the
   Tecnam P2002-JF trainer aircraft. STM32F405, BMI088 IMU, LIS2MDL, BMP280, NEO-6M GPS,
-  microSD logging. Mahony AHRS at 400 Hz, 38-channel telemetry at 100 Hz.
+  microSD logging. Mahony AHRS at 400 Hz, 38-channel telemetry at 100 Hz.  _Coming Soon_
 - 🎮 &nbsp;**[Skyris Engine](#)** &mdash; Custom C++17/OpenGL engine for 3D flight replay,
   with ECS architecture, PBR rendering, terrain LOD, OSM/SRTM geographic context,
-  and inline phase-aware Isolation-Forest anomaly detection at 60 Hz.
+  and inline phase-aware Isolation-Forest anomaly detection at 60 Hz.  _Coming Soon_
 - 🌲 &nbsp;**[Phase Aware Isolation Forest Algorithm](#)** &mdash; Reference implementation of the phase-aware
-  Isolation-Forest pipeline, with reproducible experiments and pre-trained models.
+  Isolation-Forest pipeline, with reproducible experiments and pre-trained models.  _Coming Soon_
 - 📊 &nbsp;**[TecnamSim Dataset](#)** &mdash; Synthetic flight benchmark for pilot-training
   anomaly detection: 1,000+ nominal flights and 200+ anomalous flights with
   ground-truth labels, generated from a hardware-faithful Tecnam P2002-JF model with
