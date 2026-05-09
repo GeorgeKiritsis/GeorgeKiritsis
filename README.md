@@ -15,11 +15,13 @@ inline anomaly detection.
 - Data-driven post-flight analytics for pilot training and aviation safety
 - Reproducible benchmarks and tooling for aerospace ML
 
-## Selected work
+## Selected publications
 - 📕 &nbsp;**The Use of Artificial Intelligence in Military Simulation Training** &mdash;
   Springer book chapter (2026, in press), with P. Karampelas.
   _Survey of AI techniques for military simulation training, with an aviation case
   study built on the Ikaros / Skyris system._ _Coming Soon_
+
+  ## Selected work
 - 🛠 &nbsp;**[Ikaros Flight Computer Firmware](#)** &mdash; Custom flight-data recorder firmware for the
   Tecnam P2002-JF trainer aircraft. STM32F405, BMI088 IMU, LIS2MDL, BMP280, NEO-6M GPS,
   microSD logging. Mahony AHRS at 400 Hz, 38-channel telemetry at 100 Hz.  _Coming Soon_
