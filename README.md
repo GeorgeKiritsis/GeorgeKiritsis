@@ -14,6 +14,7 @@ inline anomaly detection.
 - Embedded ML on cockpit-class hardware (Cortex-M, sub-MB memory)
 - Data-driven post-flight analytics for pilot training and aviation safety
 - Reproducible benchmarks and tooling for aerospace ML
+- Multi-aircraft generalization in synthetic flight benchmarks
 
 ## Selected publications
 - 📕 &nbsp;**The Use of Artificial Intelligence in Military Simulation Training** &mdash;
