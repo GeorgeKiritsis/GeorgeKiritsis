@@ -30,10 +30,13 @@ inline anomaly detection.
   and inline phase-aware Isolation-Forest anomaly detection at 60 Hz.  _Coming Soon_
 - 🌲 &nbsp;**[Phase Aware Isolation Forest Algorithm](#)** &mdash; Reference implementation of the phase-aware
   Isolation-Forest pipeline, with reproducible experiments and pre-trained models.  _Coming Soon_
-- 📊 &nbsp;**[TecnamSim Dataset](#)** &mdash; Synthetic flight benchmark for pilot-training
-  anomaly detection: 1,000+ nominal flights and 200+ anomalous flights with
-  ground-truth labels, generated from a hardware-faithful Tecnam P2002-JF model with
-  datasheet-derived sensor noise. _In preparation._
+- 📊 &nbsp;**[FLARES Benchmark](#)** &mdash; *Flight Logs for Anomaly Research and Evaluation Suite.*
+  Multi-aircraft synthetic benchmark for general-aviation anomaly detection: 1,000 nominal and
+  500 anomalous flights with ground-truth labels, generated via JSBSim flight dynamics and
+  scripted virtual-pilot control. Five categories of physically-grounded anomalies injected at the
+  control or sensor layer. Cessna 152 baseline aircraft, with extensible framework for additional
+  trainer models and planned validation against real Tecnam P2002-JF flight data from Ikaros.
+  _In preparation._
 
 ## Contact
 - ✉ &nbsp;[georgekiritsis5@gmail.com](mailto:georgekiritsis5@gmail.com)
