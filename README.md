@@ -1,5 +1,5 @@
 # Georgios Kiritsis
-Hellenic Air Force Academy '26  ·  Computer Science 
+Hellenic Air Force Academy '26  ·  BSc Computer Science 
 Athens, Greece
 
 I work at the intersection of **software engineering**, **computer graphics**, **embedded systems**, **aerospace ML**, and **real-time
