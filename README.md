@@ -31,7 +31,7 @@ inline anomaly detection.
   and inline phase-aware Isolation-Forest anomaly detection at 60 Hz.  _Coming Soon_
 - 🌲 &nbsp;**[Phase Aware Isolation Forest Algorithm](#)** &mdash; Reference implementation of the phase-aware
   Isolation-Forest pipeline, with reproducible experiments and pre-trained models.  _Coming Soon_
-- 📊 &nbsp;**[FLARES Dataset](#)** &mdash; *Flight Logs for Anomaly Research and Evaluation Suite.*
+- 📊 &nbsp;**[F.L.A.R.E.S](#)** &mdash; *Flight Logs for Anomaly Research and Evaluation Suite.*
   Multi-aircraft synthetic benchmark for general-aviation anomaly detection: 1,000 nominal and
   500 anomalous flights with ground-truth labels, generated via JSBSim flight dynamics and
   scripted virtual-pilot control. Five categories of physically-grounded anomalies injected at the
