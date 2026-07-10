@@ -1,9 +1,8 @@
 # Georgios Kiritsis
 
-Second Lieutenant · Computer Science Officer & Researcher
-Hellenic National Meteorological Service (EMY) · Hellenic Air Force
-BSc Computer Science, Hellenic Air Force Academy '26 · Best Thesis of Class 2026
-Athens, Greece · [georgekiritsis.com](https://georgekiritsis.com)
+- Second Lieutenant | Computer Science Officer & Researcher @ Hellenic National Meteorological Service (EMY) · Hellenic Air Force
+- BSc Computer Science, Hellenic Air Force Academy '26
+
 
 I am a Computer Science Officer at the **Hellenic National Meteorological Service** (EMY),
 working on machine learning and big-data analysis of operational meteorological and
