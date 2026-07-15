@@ -4,9 +4,8 @@
 - BSc Computer Science, Hellenic Air Force Academy '26
 
 
-I am a Computer Science Officer at the **Hellenic National Meteorological Service** (EMY),
-working on machine learning and big-data analysis of operational meteorological and
-satellite data. My work sits at the intersection of
+I am a Computer Science Officer at the **Hellenic National Meteorological Service** (EMY).
+My work sits at the intersection of
 **software engineering**, **computer graphics**, **embedded systems**, **aerospace ML**,
 and **real-time analytics for pilot training**. My undergraduate research at the 360
 Training Squadron of the Hellenic Air Force produced an operationally deployed end-to-end
