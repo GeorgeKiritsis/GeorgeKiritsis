@@ -1,10 +1,8 @@
 # Georgios Kiritsis
 
-- Second Lieutenant | Computer Science Officer & Researcher @ Hellenic National Meteorological Service (EMY) · Hellenic Air Force
+- Computer Science Officer & Researcher · Hellenic Air Force
 - BSc Computer Science, Hellenic Air Force Academy '26
 
-
-I am a Computer Science Officer at the **Hellenic National Meteorological Service** (EMY).
 My work sits at the intersection of
 **software engineering**, **computer graphics**, **embedded systems**, **aerospace ML**,
 and **real-time analytics for pilot training**. My undergraduate research at the 360
